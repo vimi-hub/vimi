@@ -1,2 +1,6 @@
 this is the last file of my session
+<<<<<<< HEAD
 gdgf fjifg
+=======
+edited
+>>>>>>> remo10/master
