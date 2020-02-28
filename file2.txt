@@ -1,4 +1,0 @@
-this is the second file in my github
-this is for retreiving the changes in repo
-file editted
-edited for the second time
