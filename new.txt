@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 this is the sample file
 this file has been corrupted
+=======
+this is the sample file
+this file has been corrupted
+edited for second time
+>>>>>>> e5906fd39662f681e86e711eb5f642c9295cfe53
